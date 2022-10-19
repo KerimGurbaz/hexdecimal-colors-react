@@ -1,4 +1,7 @@
+[Click Me..!](https://hexadecimal-colors.netlify.app)
 # Getting Started with Create React App
+![Screen Shot 2022-10-19 at 10 54 28](https://user-images.githubusercontent.com/101603320/196677049-dddfa6a8-4b3b-4b04-badd-d253a1b69868.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
